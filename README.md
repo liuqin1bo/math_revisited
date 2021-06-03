@@ -15,6 +15,7 @@ Editing
 #### 4. launch gollum
 cd to the wiki directory(eg. git clone ...):
 `gollum --mathjax -p 4567` 
+**Remark:** The tree of wiki files created in gollum is flat processed & displayed within github-wiki, it will cause duplicated name bugs unless we use some namespace-title naming standards.
 
 # Open Problems that I am interested
 ## Invariant Subspace Problem
