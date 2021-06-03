@@ -18,4 +18,4 @@ cd to the wiki directory(eg. git clone ...):
 
 # Open Problems that I am interested
 ## Invariant Subspace Problem
-## Krzy$$\dot{z}$$ Conjecture
+## Krzy$\dot{z}$ Conjecture
