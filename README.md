@@ -20,3 +20,8 @@ cd to the wiki directory(eg. git clone ...):
 # Open Problems that I am interested
 ## Invariant Subspace Problem
 ## Krzyz Conjecture
+
+## As so far, I believe one of the most efficient ways to organize personal knowledge is as follows:
+* use free version wiki tools such as confluence wiki (2GB, sufficient for string writers), free tex, markdown and other useful plugins provided.
+* use github to save  files  in cloud, together with vpn(set for `raw.githubusercontent.com`), github (ex. in chrome) would explicit picture, pdf contents. 
+* in addition, one can use `飞书`, `google drive` to get 200GB, 15GB cloud spaces. 
